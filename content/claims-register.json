@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Atlis AI",
+    "page": "/",
+    "evidence": "Owner-provided product brief",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "Software-first claims desk for Indian hospitals",
+    "page": "/",
+    "evidence": "Owner-provided product brief",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "Pre-submission claims desk for Indian hospitals handling cashless health insurance",
+    "page": "/",
+    "evidence": "Owner-provided product brief",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "Atlis AI checks cashless claims against insurer and TPA rules before dispatch",
+    "page": "/",
+    "evidence": "Owner-provided product brief",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "Atlis AI is decision support and does not submit claims to TPAs or approve or decide claims",
+    "page": "/",
+    "evidence": "Owner-provided product brief",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "Room rent above policy cap",
+    "page": "/",
+    "evidence": "Owner-provided Phase 0 hero specification; fictional sample-data label applies",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "Estimated Rs 19,700 at risk",
+    "page": "/",
+    "evidence": "Owner-provided Phase 0 hero specification; fictional sample-data label applies",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "Sample data",
+    "page": "/",
+    "evidence": "Owner-provided Phase 0 hero specification",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "The product journey includes capturing a claim, checking rules, fixing issues and preparing a TPA packet",
+    "page": "/",
+    "evidence": "Owner-provided product brief",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "IRDAI cashless timelines are one hour for a cashless request decision and three hours for final discharge authorisation",
+    "page": "/",
+    "evidence": "https://moneylife.in/article/health-insurance-decide-cashless-request-in-1-hour-provide-final-authorisation-for-discharge-within-3-hours-says-irdai/74269.html",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  },
+  {
+    "text": "The mockup review is Phase 0 and is not a production marketing page",
+    "page": "/",
+    "evidence": "Owner-provided Phase 0 design direction brief",
+    "dateVerified": "2026-10-15",
+    "owner": "Atlis AI owner"
+  }
+]
